@@ -1,4 +1,8 @@
-# weather
+# Weather
+
+Weather app made with VueJs + Open Weather API
+
+Demo : http://www.weather.rf.gd/
 
 ## Project setup
 ```
