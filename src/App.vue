@@ -40,10 +40,7 @@
         searchCityKey : '',
         isVisible : false,  
         cityName : '',
-        countryName : '',
-        url : 'http://api.openweathermap.org/data/2.5/forecast?q=',
-        apiKey : '&appid=aa57ec0edb6274f21ccb4051b2411e3a',
-        weatherUnit : '&units=metric'
+        countryName : ''
       }
     },
     components : {
