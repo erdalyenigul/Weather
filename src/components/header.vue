@@ -5,7 +5,6 @@
         <span>World Cities Weather <br>Cold or warm</span>
       </div>
       <div class="headRight" v-if="isVisible">
-	      <a href="/" class="cityName newSearch">Yeni arama</a>
 	      <div class="cityName">
 	      	{{ cityName }} - {{ countryName }}
 	      </div>
